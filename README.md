@@ -1,7 +1,7 @@
 # Image-to-Speech-Scenario-Audio-
 The Image-to-Speech that generates an audio Scenario Audio based on the context of an uploaded image.
 
-## Run App with Streamlit Cloud
+## Run website with Streamlit
 
 ## Approach
 An app that uses Hugging Face AI models to generate text from an image, which then generates audio from the text.
